@@ -92,11 +92,11 @@ To run the project on your local machine:
 
 4. Open your browser and go to `http://localhost:8000` to access the dashboard.
 
-##Input
+## Input
 ![11](https://github.com/user-attachments/assets/e99b2a0d-03bc-4e01-9ef5-2c5d59752b29)
 
 
-##Output
+## Output
 ![22](https://github.com/user-attachments/assets/317424cb-f0e6-4080-8f96-f34bd0346bc4)
 
 
