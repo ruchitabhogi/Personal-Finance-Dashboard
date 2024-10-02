@@ -1,5 +1,5 @@
 # Personal-Finance-Dashboard
-A Personal-Finance-Dashboard using python
+A Personal-Finance-Dashboard using Python
 
 
 This project is a simple Finance Dashboard web application that allows users to input their financial data and visualize their expenditures through various charts. The app is built using   Python's HTTP server  ,   Matplotlib   for visualization, and   HTML/CSS   for the frontend.
@@ -91,7 +91,14 @@ To run the project on your local machine:
    ```
 
 4. Open your browser and go to `http://localhost:8000` to access the dashboard.
-![2](https://github.com/user-attachments/assets/82ef7211-6185-4355-860d-d6bcf78c45dc)
+
+   
+![1](https://github.com/user-attachments/assets/4c16bc4c-25a5-4b7b-bf73-200504c445cd)
+
+
+![2](https://github.com/user-attachments/assets/2759e12b-67de-4538-a02c-3c62e815f246)
+
+
 
 
 
