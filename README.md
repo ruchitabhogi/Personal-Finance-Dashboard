@@ -81,13 +81,13 @@ To run the project on your local machine:
 2. Navigate to the project directory:
 
    ```bash
-   cd finance-dashboard
+   cd Personal-Finance-Dashboard
    ```
 
 3. Run the server:
 
    ```bash
-   !python finance_dashboard.py
+   !python bar.py
    ```
 
 4. Open your browser and go to `http://localhost:8000` to access the dashboard.
